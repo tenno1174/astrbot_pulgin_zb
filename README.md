@@ -1,8 +1,8 @@
 # helloworld
 
-AstrBot 插件模板
+AstrBot 特定网页截图插件
 
-A template plugin for AstrBot plugin feature
+基于“沙北”的网页截图插件的二次修改
 
 # 支持
 
